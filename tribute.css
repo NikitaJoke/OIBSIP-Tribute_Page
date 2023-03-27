@@ -1,0 +1,44 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Sono:wght@500&display=swap');
+
+*{
+    background-color: rgb(138, 157, 158);
+    /* font-family: 'Sono', sans-serif; */
+    /* margin: 20px; */
+    font-family: 'Poppins', sans-serif;  
+
+
+}
+.container{
+    max-width: 1180px;
+    margin-inline: auto;
+    /* background-image: url('assets\bg1.jpg'); */
+
+    
+}
+.image img{
+    height: 200px;
+    border-radius: 5px;
+
+}
+.image{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;  
+
+
+}
+.content{
+    /* font-family:fantasy; */
+    font-size: 20px;
+    font-weight: 12px;
+    font-family: 'Ubuntu', sans-serif;
+}
+h4{
+    padding: 5px;
+    margin: 0px;
+}
+p{
+    /* margin: 0px; */
+    /* padding: 5px; */
+    column-gap: 10px;
+}
